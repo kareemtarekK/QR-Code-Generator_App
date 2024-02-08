@@ -37,6 +37,8 @@ library As AI generate QR Code </pre>
 </code>
 <pre>
   To read more about library QRCodejs visit this link
-  <a href="">visit</a>
+  <a href="https://davidshimjs.github.io/qrcodejs/">visit</a>
 </pre>
-<a href="https://davidshimjs.github.io/qrcodejs/">Start-Application</a>
+<a href="https://kareemtarekk.github.io/QR-Code-Generator_App/">Start-Application</a>
+
+
