@@ -20,4 +20,21 @@ library As AI generate QR Code </pre>
 <img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/1.jpg" width="500">
 <p>if you signed from mobile</p>
 <img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/5.png" width="500">
-<a href="">Start</a>
+<p>Code for QRCode js Library</p>
+<code>
+  const generate_QR_Code = () =>{
+    new QRCode(qrcode , {
+    text : urlInput.value,
+    width : select.value,
+    height : select.value,
+    colorDark : "#000000",
+    colorLight : "#ffffff",
+    correctLevel : QRCode.CorrectLevel.H
+    });
+};
+</code>
+<pre>
+  To read more about library QRCodejs visit this link
+  <a href="">visit</a>
+</pre>
+<a href="https://davidshimjs.github.io/qrcodejs/">Start-Application</a>
