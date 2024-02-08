@@ -18,6 +18,8 @@ library As AI generate QR Code </pre>
 <img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/2.jpg" width="500">
 <p>QR-Code</p>
 <img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/1.jpg" width="500">
+<p>after scaning QRCode you will go to amazon website</p>
+<img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/3.jpg" width="500">
 <p>if you signed from mobile</p>
 <img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/5.png" width="500">
 <p>Code for QRCode js Library</p>
