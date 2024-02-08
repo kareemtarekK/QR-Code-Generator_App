@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width ,initial-scale= 1.0">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <title>Qr Code Generator</title>
+    </head>
+    <body>
+        <div class="header">
+            <head>Qr Code Generator</head>
+        </div>
+        <div class="container">
+            
+            <div class="main">
+                <div class="left-content">
+                    <div class="text">
+                        <h1>QR Code Generator</h1>
+                        <p>QR Codes allow smartphone users to access your website
+                        simply <br> and quickly.</p>
+                    </div>
+                    <form class="form">
+                        <input type="url" placeholder="enter a URL">
+                        <label for="size">Size</label>
+                        <select form="select">
+                            <option value="100">100x100</option>
+                            <option value="200">200x200</option>
+                            <option value="300">300x300</option>
+                            <option value="400">400x400</option>
+                            <option value="500" selected>500x500</option>
+                            <option value="600">600x600</option>
+                            <option value="700">700x700</option>
+                            <option value="800">800x800</option>
+                            <option value="900">900x900</option>
+                            <option value="1000">1000x1000</option>
+                        </select>
+                        <input type="submit" value="Generate QR Code">
+                    </form>
+                </div>
+                <div class="right-content">
+                    <img src="images/qr-code.svg">
+                </div>
+                
+            </div>
+        </div>
+        <div class="tec">
+            <div class="rotate">
+                <div class="spinner"></div>
+            </div>
+            <div id="qrcode"></div>
+        </div>
+        <script src="main.js"></script>
+    </body>
+</html>
