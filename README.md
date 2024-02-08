@@ -13,4 +13,11 @@ library As AI generate QR Code </pre>
   <li>Download QRCode if you need</li>
 </ul>
 <p>Start of application </p>
-<img src="">
+<img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/4.jpg" width="500">
+<p>when enter the data</p>
+<img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/2.jpg" width="500">
+<p>QR-Code</p>
+<img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/1.jpg" width="500">
+<p>if you signed from mobile</p>
+<img src="https://github.com/kareemtarekK/QR-Code-Generator_App/blob/main/github/5.png" width="500">
+<a href="">Start</a>
